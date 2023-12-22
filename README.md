@@ -26,7 +26,7 @@ We were able to calculate and derive outcomes directly by using `regex` and `num
 
 
 The given dataset contains approx. 1200 training examples, half of them include `explanation` field. So we decided to collect more multiple choice data from [VietJack](https://vietjack.me/). Furthermore, we augmented data by calling GPT-4 API to fill missing `explanation` samples.
-We also created dataset programmatically for some types of math problem (including basic calculation). To diversify our dataset, we translated famous public datasets using Huggingface 🤗.
+We also created dataset programmatically for some types of math problem (including basic calculation). To diversify our dataset, we translated famous public datasets from Huggingface 🤗.
 Note that our dataset not only contains samples in multiple choice format, but also in question-answering format.
 
 #### 3. LLM
