@@ -14,7 +14,7 @@ Our contributions as follow: :heart_eyes:
 - Creating rule-base algorithm to pass basic testcases
 - Collecting and augmenting Vietnamese elementary mathematics from internet
 - Training a LLM
-- Appying RAG technique
+- Applying RAG technique
 - Implementing re-evaluation method for inference
 
 ### Details
