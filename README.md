@@ -1,5 +1,4 @@
-
-# Zalo AI Challenge 2023 - Elementary Maths Solving:
+# Zalo AI Challenge 2023 - Elementary Maths Solving
 ## A Solution of top-5 private leaderboard
 
 ### Problem
@@ -27,7 +26,7 @@ We were able to calculate and derive outcomes directly by using `regex` and `num
 
 
 The given dataset contains approx. 1200 training examples, half of them include `explanation` field. So we decided to collect more multiple choice data from [VietJack](https://vietjack.me/). Furthermore, we augmented data by calling GPT-4 API to fill missing `explanation` samples.
-We also created dataset programmatically for some types of math problem (including basic calculation). To diversify our dataset, we translated famous public datasets using Huggingface.
+We also created dataset programmatically for some types of math problem (including basic calculation). To diversify our dataset, we translated famous public datasets using Huggingface 🤗.
 Note that our dataset not only contains samples in multiple choice format, but also in question-answering format.
 
 #### 3. LLM
@@ -48,6 +47,9 @@ Note that, in order to reduce the complexity of our solution, only basic arithme
 - [Mem 1](https://github.com/santapo)
 - [Mem 2](https://github.com/BinhMinhs10)
 - [Mem 3](https://github.com/duongkstn)
+
+
+*Hope you guys love our solution !* :smiling_face_with_three_hearts: :smiling_face_with_three_hearts: :smiling_face_with_three_hearts:
 
 
 
